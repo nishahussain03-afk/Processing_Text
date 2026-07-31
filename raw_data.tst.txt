@@ -1,0 +1,17 @@
+Hello Everyone!!
+
+Welcome to NLP Text Preprocessing.
+
+Visit https://www.example.com for more details.
+
+Contact us at [support@example.com](mailto:support@example.com)
+
+Call +91-9876543210
+
+<div>This is HTML Content</div>
+
+#ArtificialIntelligence @OpenAI 😊
+
+Natural Language Processing (NLP) is one of the most exciting fields in Artificial Intelligence.
+
+Python, NLTK, and Pandas are widely used for text preprocessing.
